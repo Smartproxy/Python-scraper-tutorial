@@ -22,7 +22,10 @@ To run our example scraper, you are going to need these libraries:
 ## List of contents
 
 - [Introduction](#introduction)
+- [Be polite](#Be polite)
 
 ## Introduction
 
 If you’re here that means you are interested in finding out more about how to scrape and enjoy all the data that you gather. However, before we dive into it, we first need to understand what web scraping is. In general terms, scraping is the process of acquiring a web page with all of its information and then extracting selected fields for further processing. Usually the purpose of gathering that information is so that a person could easily monitor it. Some examples could be reviews, prices, weather reports, billboard hits,and so on.
+
+## Be polite
