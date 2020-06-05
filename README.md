@@ -9,5 +9,20 @@
 
 ### Disclaimer
 
-The following example is a simple script showing how to utilize Smartproxy with Nightmare.js.
-We suggest to reseach [Nightmare.js](https://github.com/segmentio/nightmare#api) documentation in order to continue development with this tool.
+The following tutorial is meant for educational purposes and introduces to the basics of web scraping and utilizing Smartproxy for it.
+We suggest to reseach the [Requests](https://requests.readthedocs.io/en/master/user/quickstart/) and [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) documentation in order to build upon the given example.
+
+### Prerequisites
+
+To run our example script, you are going to need a few libraries as well as Node.js.
+
+* [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
+* [Requests](https://pypi.org/project/requests/)
+
+## List of contents
+
+- [Introduction](#introduction)
+
+## Introduction
+
+If you’re here that means you are interested in finding out more about how to scrape and enjoy all the data that you gather. However, before we dive into it, we first need to understand what web scraping is. In general terms, scraping is the process of acquiring a web page with all of its information and then extracting selected fields for further processing. Usually the purpose of gathering that information is so that a person could easily monitor it. Some examples could be reviews, prices, weather reports, billboard hits,and so on.
