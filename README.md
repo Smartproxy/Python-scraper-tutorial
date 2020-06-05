@@ -14,7 +14,7 @@ We suggest to reseach the [Requests](https://requests.readthedocs.io/en/master/u
 
 ### Prerequisites
 
-To run our example script, you are going to need a few libraries as well as Node.js.
+To run our example scraper, you are going to need these libraries:
 
 * [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
 * [Requests](https://pypi.org/project/requests/)
