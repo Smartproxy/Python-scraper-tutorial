@@ -22,7 +22,7 @@ To run our example scraper, you are going to need these libraries:
 ## List of contents
 
 - [Introduction](#introduction)
-- [Be polite](#Be polite)
+- [Be polite](#be_polite)
 
 ## Introduction
 
