@@ -23,6 +23,7 @@ To run our example scraper, you are going to need these libraries:
 
 - [Introduction](#introduction)
 - [Be polite](#be_polite)
+- [Let's get to it](#let's_get_to_it)
 
 ## Introduction
 
