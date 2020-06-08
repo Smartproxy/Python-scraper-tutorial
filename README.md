@@ -34,6 +34,7 @@ Just as you are polite and caring in the real world, you should be such online a
 
 ## Let’s get to it
 
+### Inspecting the site
 In the following tutorial, you will not only see how a basic scraper is written but will also learn how to adjust it to your own needs. Moreover, you will learn how to do it via a proxy!
 
 As mentioned, we will be using these libraries:
