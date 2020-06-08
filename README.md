@@ -22,8 +22,9 @@ To run our example scraper, you are going to need these libraries:
 ## List of contents
 
 - [Introduction](#introduction)
-- [Be polite](#be_polite)
-- [Let's get to it](#lets_get_to_it)
+- [Be polite](#be-polite)
+- [Let's get to it](#lets-get-to-it)
+-- [Inspecting the site](#inspecting-the-site)
 
 ## Introduction
 
@@ -35,7 +36,6 @@ Just as you are polite and caring in the real world, you should be such online a
 
 ## Let’s get to it
 
-### Inspecting the site
 In the following tutorial, you will not only see how a basic scraper is written but will also learn how to adjust it to your own needs. Moreover, you will learn how to do it via a proxy!
 
 As mentioned, we will be using these libraries:
@@ -43,4 +43,9 @@ Requests
 BeautifulSoup 4
 The page we’re going to scrape is http://books.toscrape.com/. It doesn’t have robots.txt, but I think we can agree that the name of the site is asking you to scrape it. But before we carry on with the coding part, let's inspect the website first.
 
+### Inspecting the site
+
 So, this is what the main page of the website looks like. We can see it contains books, their titles, prices, ratings, availability information, and a list of genres in the sidebar.
+<p align="center">
+    <img src="https://smartproxy.com/wp-content/themes/smartproxy/images/smartproxy-logo.svg" alt="Smartproxy logo" width="200" height="50">
+</p>
