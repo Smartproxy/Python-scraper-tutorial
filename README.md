@@ -19,6 +19,16 @@ To run our example scraper, you are going to need these libraries:
 * [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
 * [Requests](https://pypi.org/project/requests/)
 
+### Installation
+
+To install the scraper example run:
+
+`git clone https://github.com/Smartproxy/Python-scraper-tutorial.git`
+
+or
+
+`curl https://raw.githubusercontent.com/Smartproxy/Python-scraper-tutorial/master/scraper.py > scraper.py`
+
 ## List of contents
 
 - [Introduction](#introduction)
