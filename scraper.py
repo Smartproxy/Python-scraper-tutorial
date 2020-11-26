@@ -1,10 +1,11 @@
 import requests
 from bs4 import BeautifulSoup
 
-proxy = {'http': 'http://SPusername:SPpassword@gate.smartproxy.com:7000'}
+proxy = {'http': 'http://SPusername:SPpassword@gate.smartproxy.com:7000',
+        'https': 'https://SPusername:SPpassword@gate.smartproxy.com:7000'}
 url = 'http://books.toscrape.com/catalogue/page-1.html'
 
-r = requests.get(url, proxies=proxy)
+r = requests.get(url, proxies=proxy, timeout=60)
 html = BeautifulSoup(r.content, 'html.parser')
 
 all_books = html.find_all('article', class_='product_pod')
