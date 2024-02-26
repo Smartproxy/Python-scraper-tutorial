@@ -70,7 +70,7 @@ The page we're going to scrape is http://books.toscrape.com/. It is a website bu
 The following screenshot shows what the main page of the website looks like. You can see it contains books, their titles, prices, ratings, availability information, and a list of genres in the sidebar.
 
 <p align="center">
-    <img src="https://i.imgur.com/ovjMkS6.png" alt="books.toscrape.com Main window">
+    <img src="https://imgur.com/PpBLVNt.gif" alt="books.toscrape.com Main window">
 </p>
 
 When you select a specific book, you're taken to a page with even more information, such as its description, how many are in stock, the number of reviews, etc.
