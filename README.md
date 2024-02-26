@@ -85,9 +85,8 @@ Once you know exactly what you want from the site, you can inspect those element
 
 The Chrome DevTools will open and display the HTML structure of the page. You can manually search for the item you need or use the element picker tool in the top-left corner. Select it, hover over the item you need in the page and it'll find it in the HTML code. After a quick inspection, you can see that the main information on each book is located in the article element with a class name **product_pod**.
 
-<p align="center">
-    <img src="https://i.imgur.com/QbdDzyW.png" alt="books.toscrape.com Inspecting the HTML">
-</p>
+![ezgif-5-718c9a2060](https://github.com/Smartproxy/Python-scraper-tutorial/assets/159907476/e229d3f4-1512-42ab-8390-e47a5fdecc5c)
+
 
 All of the data you'll need is nested in the **article** element. Now, let's inspect the price. We can see that the price value is the text of the paragraph with the **price_color** class. If you inspect the In stock part, you can see that it's a text value of the **instock availability** paragraph. You can check out other elements on the page and see how they're represented in the HTML. Once you're done, let's build a simple web scraper to extract this data through code.
 
